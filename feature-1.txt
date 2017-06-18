@@ -1,5 +1,6 @@
 void main()
 {
-printf("I m a PROgrammer");
+printf("This is the first line and I m a PROgrammer");
+printf("This is the second line and I m again a PROgrammer");
 getch();
 }
