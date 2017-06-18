@@ -1,5 +1,0 @@
-void main()
-{
-printf("I m a PROgrammer");
-getch();
-}
